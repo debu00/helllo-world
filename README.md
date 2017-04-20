@@ -1,2 +1,5 @@
 # helllo-world
-My first repository
+
+Hi everybody
+
+I am learning JavaScript and HTML.
